@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your Java AWT Calculator:
-
----
-
 # Java AWT Calculator
 
 This is a simple calculator implemented in Java AWT (Abstract Window Toolkit) that performs basic arithmetic operations.
