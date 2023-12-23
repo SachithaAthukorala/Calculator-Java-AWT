@@ -21,6 +21,7 @@ import java.awt.event.WindowEvent;
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Click https://github.com/SachithaAthukorala/Calculator-Java-AWT/blob/main/Calculator.java for sourcecode
  */
 /**
  *
